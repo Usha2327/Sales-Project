@@ -2,7 +2,7 @@
 
 # Sales-Analytics-Dashboards-report
 
-This Power BI dashboard provides a clear picture of how different products and regions are performing in terms of sales, profits, and shipments.
+# This Power BI dashboard provides a clear picture of how different products and regions are performing in terms of sales, profits, and shipments.
 
 # Achieved $34M+ in total sales with a 60% profit margin
 
